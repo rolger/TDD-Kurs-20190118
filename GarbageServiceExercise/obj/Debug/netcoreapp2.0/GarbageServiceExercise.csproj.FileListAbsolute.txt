@@ -1,0 +1,42 @@
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\bin\Debug\netcoreapp2.0\GarbageServiceExercise.deps.json
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\bin\Debug\netcoreapp2.0\GarbageServiceExercise.runtimeconfig.json
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\bin\Debug\netcoreapp2.0\GarbageServiceExercise.runtimeconfig.dev.json
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\bin\Debug\netcoreapp2.0\GarbageServiceExercise.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\bin\Debug\netcoreapp2.0\GarbageServiceExercise.pdb
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\obj\Debug\netcoreapp2.0\GarbageServiceExercise.csproj.CoreCompileInputs.cache
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\obj\Debug\netcoreapp2.0\GarbageServiceExercise.AssemblyInfoInputs.cache
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\obj\Debug\netcoreapp2.0\GarbageServiceExercise.AssemblyInfo.cs
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\obj\Debug\netcoreapp2.0\GarbageServiceExercise.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\obj\Debug\netcoreapp2.0\GarbageServiceExercise.pdb
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\TDD Kurs 20190128\obj\Debug\netcoreapp2.0\GarbageServiceExercise.csprojAssemblyReference.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\bin\Debug\netcoreapp2.0\GarbageServiceExercise.deps.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\bin\Debug\netcoreapp2.0\GarbageServiceExercise.runtimeconfig.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\bin\Debug\netcoreapp2.0\GarbageServiceExercise.runtimeconfig.dev.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\bin\Debug\netcoreapp2.0\GarbageServiceExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\bin\Debug\netcoreapp2.0\GarbageServiceExercise.pdb
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.csprojAssemblyReference.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.csproj.CoreCompileInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.AssemblyInfoInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.AssemblyInfo.cs
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.pdb
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\bin\Debug\netcoreapp2.0\GarbageServiceExercise.deps.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\bin\Debug\netcoreapp2.0\GarbageServiceExercise.runtimeconfig.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\bin\Debug\netcoreapp2.0\GarbageServiceExercise.runtimeconfig.dev.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\bin\Debug\netcoreapp2.0\GarbageServiceExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\bin\Debug\netcoreapp2.0\GarbageServiceExercise.pdb
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.csprojAssemblyReference.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.csproj.CoreCompileInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.AssemblyInfoInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.AssemblyInfo.cs
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\GarbageServiceExercise\obj\Debug\netcoreapp2.0\GarbageServiceExercise.pdb

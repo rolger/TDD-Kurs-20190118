@@ -1,0 +1,42 @@
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.csprojAssemblyReference.cache
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.csproj.CoreCompileInputs.cache
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.AssemblyInfoInputs.cache
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.AssemblyInfo.cs
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.deps.json
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.runtimeconfig.json
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.runtimeconfig.dev.json
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.pdb
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.pdb
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.deps.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.runtimeconfig.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.runtimeconfig.dev.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.pdb
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.csprojAssemblyReference.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.csproj.CoreCompileInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.AssemblyInfoInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.AssemblyInfo.cs
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.pdb
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.deps.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.runtimeconfig.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.runtimeconfig.dev.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\bin\Debug\netcoreapp2.0\XUnitExercise.pdb
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.csprojAssemblyReference.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.csproj.CoreCompileInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.AssemblyInfoInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.AssemblyInfo.cs
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\XUnitExercise\obj\Debug\netcoreapp2.0\XUnitExercise.pdb

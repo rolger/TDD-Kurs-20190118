@@ -1,0 +1,42 @@
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\bin\Debug\netcoreapp2.0\RefactoringExercise.deps.json
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\bin\Debug\netcoreapp2.0\RefactoringExercise.runtimeconfig.json
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\bin\Debug\netcoreapp2.0\RefactoringExercise.runtimeconfig.dev.json
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\bin\Debug\netcoreapp2.0\RefactoringExercise.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\obj\Debug\netcoreapp2.0\RefactoringExercise.csproj.CoreCompileInputs.cache
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\obj\Debug\netcoreapp2.0\RefactoringExercise.AssemblyInfoInputs.cache
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\obj\Debug\netcoreapp2.0\RefactoringExercise.AssemblyInfo.cs
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\bin\Debug\netcoreapp2.0\RefactoringExercise.pdb
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\obj\Debug\netcoreapp2.0\RefactoringExercise.dll
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\obj\Debug\netcoreapp2.0\RefactoringExercise.pdb
+C:\Users\roland.germ\source\repos\TDD Kurs 20190128\XUnitTestProject1\obj\Debug\netcoreapp2.0\RefactoringExercise.csprojAssemblyReference.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\bin\Debug\netcoreapp2.0\RefactoringExercise.deps.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\bin\Debug\netcoreapp2.0\RefactoringExercise.runtimeconfig.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\bin\Debug\netcoreapp2.0\RefactoringExercise.runtimeconfig.dev.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\bin\Debug\netcoreapp2.0\RefactoringExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\bin\Debug\netcoreapp2.0\RefactoringExercise.pdb
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.csprojAssemblyReference.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.csproj.CoreCompileInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.AssemblyInfoInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.AssemblyInfo.cs
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190128\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.pdb
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\bin\Debug\netcoreapp2.0\RefactoringExercise.deps.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\bin\Debug\netcoreapp2.0\RefactoringExercise.runtimeconfig.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\bin\Debug\netcoreapp2.0\RefactoringExercise.runtimeconfig.dev.json
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\bin\Debug\netcoreapp2.0\RefactoringExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\bin\Debug\netcoreapp2.0\RefactoringExercise.pdb
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.csprojAssemblyReference.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.csproj.CoreCompileInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.AssemblyInfoInputs.cache
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.AssemblyInfo.cs
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.dll
+C:\Users\roland.germ\source\repos\TDD-Kurs-20190118\RefactoringExercise\obj\Debug\netcoreapp2.0\RefactoringExercise.pdb

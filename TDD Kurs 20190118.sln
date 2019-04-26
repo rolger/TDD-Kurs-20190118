@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarbageServiceExercise", "G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringCalculatorExercise", "StringCalculatorExercise\StringCalculatorExercise.csproj", "{1C6173ED-E14C-4CCC-8A1B-0B7796C7D806}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROT-13", "ROT-13\ROT-13.csproj", "{0AD36BFB-9DB9-422B-B80B-0805AFB4C3A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1C6173ED-E14C-4CCC-8A1B-0B7796C7D806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C6173ED-E14C-4CCC-8A1B-0B7796C7D806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C6173ED-E14C-4CCC-8A1B-0B7796C7D806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD36BFB-9DB9-422B-B80B-0805AFB4C3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD36BFB-9DB9-422B-B80B-0805AFB4C3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD36BFB-9DB9-422B-B80B-0805AFB4C3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD36BFB-9DB9-422B-B80B-0805AFB4C3A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

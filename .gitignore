@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+_ReSharper*/
+*.suo
+*.user
+.DS_Store
+*.pyc
+
+#Doc
+*.rtf#
+
+# IDEA
+.idea/
+*.iml
+*.userprefs

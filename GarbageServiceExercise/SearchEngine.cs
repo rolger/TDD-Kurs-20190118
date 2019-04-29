@@ -24,9 +24,29 @@ namespace GarbageServiceExercise
         private readonly ICompanyRepository repo;
         private readonly GarbageParser parser;
 
+        public SearchEngine(ICompanyRepository repo, GarbageParser parser)
+        {
+            this.repo = repo;
+            this.parser = parser;
+        }
+
         public FoundCompanies Search(string input)
         {
-            return null;
+            var foundCompanies = new FoundCompanies();
+            if (string.IsNullOrEmpty(input))
+            {
+                return foundCompanies; 
+            }
+
+            var keywords = parser.Parse(input);
+            foreach(string keyword in keywords)
+            {
+                var companies = repo.FindBy(keyword);
+
+                companies.ForEach(c => foundCompanies.Add(c.Name));
+            }
+            
+            return foundCompanies;
         }
     }
 }
